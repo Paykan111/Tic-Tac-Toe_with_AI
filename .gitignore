@@ -1,0 +1,18 @@
+# Project exclude paths
+/.gradle/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Fix compile-time errors/out/
+/Problems/Fix compile-time errors/out/production/classes/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/What's wrong/out/
+/Problems/What's wrong/out/production/classes/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
+/Tic-Tac-Toe with AI/task/out/test/classes/
